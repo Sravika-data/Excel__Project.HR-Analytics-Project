@@ -13,7 +13,7 @@ Key Metrics:
 📍 Average Age of Employees: 37
 
 
-Insights
+Insights:
 📍R&D department experiences a higher attrition count.
 📍The age group of 25-34 witnesses a higher attrition rate.
 📍Gender distribution: 60% male, 40% female.
